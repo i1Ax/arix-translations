@@ -1,10 +1,10 @@
 <?php
 
 return [
-    'account-activity-log' => 'Account Activity Log',
-    'activity-log' => 'Activity Log',
-    'clear-filters' => 'Clear Filters',
-    'metadata' => 'Metadata',
-    'close' => 'Close',
-    'no-logs-server' => 'No activity logs available for this server.'
+    'account-activity-log' => 'سجل نشاط الحساب',
+    'activity-log' => 'سجل النشاط',
+    'clear-filters' => 'مسح الفلاتر',
+    'metadata' => 'بيانات التعريف',
+    'close' => 'إغلاق',
+    'no-logs-server' => 'لا تتوفر سجلات نشاط لهذا السيرفر.'
 ];
